@@ -14,8 +14,15 @@
   "contributes": {
     "commands": [
       {
-        "command": "ai-test.helloWorld",
-        "title": "Hello World"
+        "command": "ai-test.writeUnitTests",
+        "title": "Write Unit Tests"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "ai-test.writeUnitTests",
+        "key": "ctrl+t",
+        "when": "editorTextFocus"
       }
     ]
   },
