@@ -1,7 +1,7 @@
 {
-  "name": "ai-test",
-  "displayName": "ai-test",
-  "description": "Shorthand to write unit tests with AI or Copilot for Jasmine ",
+  "name": "jasmine-ai-test-writer",
+  "displayName": "Jasmine AI Test Writer",
+  "description": "Shorthand to write unit tests with Copilot for Jasmine",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
