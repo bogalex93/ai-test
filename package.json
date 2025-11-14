@@ -10,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogalex93/ai-test.git"
+  },
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
