@@ -1,4 +1,5 @@
 {
+  "publisher": "rs-devs",
   "name": "jasmine-ai-test-writer",
   "displayName": "Jasmine AI Test Writer",
   "description": "Shorthand to write unit tests with Copilot for Jasmine",

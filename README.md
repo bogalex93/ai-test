@@ -8,14 +8,14 @@ By pressing ctrl/command + t when you are in a spec file, the extension will get
 
 ## Requirements
 
-This extension works in conjunction with Copilot. Thereore Copilot having Copilot extension active is a requirment. 
+This extension works in conjunction with Copilot. Therefore having Copilot extension active is a requirement. 
 
 ## Known Issues
 
 ## Release Notes
 
 
-### 1.0.0
+### 1.0.0 Author: Bogdan Teodor (bogalex93)
 
 Initial Release
  
